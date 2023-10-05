@@ -53,8 +53,8 @@ END;
 ```
 ### Output:
 
+![6-1](https://github.com/Thenmozhi-Palanisamy/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/95198708/4ac1c9f8-d644-4872-b9df-329da41bf52a)
 
-![image](https://github.com/Thenmozhi-Palanisamy/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/95198708/d13910aa-cdaf-44f7-9511-4cdfe47c05b6)
 
 ### Result:
 Thus this program executed successfully.
